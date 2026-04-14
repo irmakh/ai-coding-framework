@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "project_name": "AI Frame",
+  "created": "2026-04-14",
+  "project_type": "cli_tool",
+  "language": "Python",
+  "runtime_version": "Python 3.10+",
+  "framework": "",
+  "architecture": "monolith",
+  "testing_strategy": "minimal",
+  "current_phase": "active_development",
+  "team_size": "solo"
+}
