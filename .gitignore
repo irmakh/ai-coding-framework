@@ -14,6 +14,9 @@ build/
 .venv/
 venv/
 
+# Generated context snapshots
+context.md
+
 # OS
 .DS_Store
 Thumbs.db
